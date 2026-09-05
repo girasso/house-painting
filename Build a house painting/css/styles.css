@@ -1,0 +1,159 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#house {
+  position: relative;
+  top: 140px;
+  left: 200px;
+  z-index: 2;
+  border: 7px solid #bb5959;
+  background-color: #c87171;
+  width: 500px;
+  height: 400px;
+}
+
+#chimney {
+  position: absolute;
+  top: -110.5px;
+  left: 350px;
+  z-index: 0;
+  width: 90px;
+  height: 100px;
+  border: 4px solid #bdb4b4;
+  border-bottom: 0;
+  background-color: #e0e1e0;
+}
+
+#roof {
+  position: absolute;
+  top: 0;
+  width: 500px;
+  height: 150px;
+  border-bottom: 6px solid #9d5c1b;
+  background-color: #e78c32;
+}
+
+#window-1 {
+  position: absolute;
+  top: 200px;
+  left: 20px;
+  width: 140px;
+  height: 90px;
+  border: 4px solid rgba(54, 55, 13, 0.333);
+  background-color: #fffb04;
+}
+
+#window-2 {
+  position: absolute;
+  top: 200px;
+  left: 320px;
+  width: 140px;
+  height: 90px;
+  border: 4px solid rgba(54, 55, 13, 0.333);
+  background-color: #fffb04;
+}
+
+#door {
+  position: absolute;
+  bottom: 0;
+  left: 200px;
+  width: 80px;
+  height: 130px;
+  border: 4px solid #be6404;
+  border-bottom: 0;
+  background-color: #ff9124;
+}
+
+#doorknob {
+  position: absolute;
+  bottom: 50px;
+  left: 260px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #be6404;
+}
+
+#grass {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 194px;
+  background-color: #74c424;
+  border-top: 5px solid #5a9e1b;
+}
+
+#sky {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 535px;
+  background-color: #7ec0ee;
+}
+
+#sun {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  z-index: 2;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #f5f542;
+}
+
+#road {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background-color: #808080;
+  border-top: 5px solid #666666;
+}
+
+#cloud-1 {
+  position: absolute;
+  top: 100px;
+  left: 770px;
+  z-index: 2;
+  width: 200px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #ffffff;
+}
+
+#cloud-2 {
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  z-index: 2;
+  width: 200px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #ffffff;
+}
+
+#cloud-3 {
+  position: absolute;
+  top: 50px;
+  left: 1200px;
+  z-index: 2;
+  width: 200px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #ffffff;
+}
+
+#mountain-1 {
+  position: absolute;
+  bottom: 196px;
+  right: 0;
+  z-index: 1;
+  width: 230px;
+  height: 200px;
+  border-left: 300px solid transparent;
+  border-right: 300px solid transparent;
+  border-bottom: 200px solid #5a9e1b;
+}
