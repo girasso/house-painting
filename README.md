@@ -18,7 +18,7 @@
 
 🔗 **Live Demo:** [Em breve]
 
-🔗 **FreeCodeCamp:** [Meu perfil no FreeCodeCamp]((https://www.freecodecamp.org/girrasso)
+🔗 **FreeCodeCamp:** [Meu perfil no FreeCodeCamp](https://www.freecodecamp.org/girrasso)
 
 ---
 
