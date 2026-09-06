@@ -10,7 +10,7 @@
 ## 📸 Preview
 
 <!-- Adicione aqui uma captura de tela do projeto -->
-<img width="1847" height="917" alt="preview pnj" src="https://github.com/user-attachments/assets/d68e9236-1f30-4449-b744-c80f4c1707a1" />
+<img width="1847" height="917" alt="preview" src="https://github.com/user-attachments/assets/9ad10152-fd87-42fc-8ed1-46f065bb6e8c" />
 
 ---
 
